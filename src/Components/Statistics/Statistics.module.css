@@ -1,0 +1,9 @@
+.optionList {
+  list-style: none;
+  padding: 0;
+}
+
+.optionItem {
+  margin-bottom: 6px;
+  font-weight: 500;
+}
